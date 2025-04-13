@@ -9,7 +9,8 @@
 }
 
 :root {
-  --theme-color: #28fc03;
+  --theme-color: #a8542d;
+  --theme-font-color: #f0b995;
 }
 body:not(.ready) {
   overflow: hidden;
@@ -67,7 +68,7 @@ html {
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  color: #c8c8c8;
+  color: #f0b99b;
   font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 0;
@@ -209,7 +210,7 @@ main.hidden {
   transition: all 0.3s;
 }
 .anchor span {
-  color: #c8c8c8;
+  color: var(--theme-font-color, #c8c8c8);
 }
 .anchor:hover {
   text-decoration: underline;
@@ -392,7 +393,7 @@ body.sticky .sidebar-toggle {
   background-color: #efefef;
 }
 .markdown-section p.tip em {
-  color: #c8c8c8;
+  color: var(--theme-font-color, #c8c8c8);
 }
 .markdown-section p.warn {
   background: rgba(234, 111, 90, 0.1);
@@ -507,7 +508,7 @@ section.cover.show {
   display: flex;
 }
 section.cover.has-mask .mask {
-  background-color: #0D1F39;
+  background-color: #0f2139;
   opacity: 0.8;
   position: absolute;
   top: 0;
@@ -596,16 +597,16 @@ section.cover blockquote > p > a:hover {
 }
 .sidebar,
 body {
-  background-color: #0D1F39;
+  background-color: #0f2139;
 }
 .sidebar {
-  color: #c8c8c8;
+  color: var(--theme-font-color, #c8c8c8);
 }
 .sidebar li {
   margin: 6px 15px 6px 0;
 }
 .sidebar ul li a {
-  color: #c8c8c8;
+  color: var(--theme-font-color, #c8c8c8);
   font-size: 14px;
   overflow: hidden;
   text-decoration: none;
@@ -839,5 +840,5 @@ pre:after {
 input[type="search"] {
   background: #4f4f4f;
   border-color: #4f4f4f;
-  color: #c8c8c8;
+  color: var(--theme-font-color, #c8c8c8);
 }
