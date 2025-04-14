@@ -1,6 +1,6 @@
+# Copper Key's Core Values
 
-At my core, I am a [mishmash](https://dictionary.cambridge.org/us/dictionary/english/mishmash) of many different goals, skills, and interests (and you are, too). The ["woo-woo"](https://www.merriam-webster.com/dictionary/woo-woo) side of me believes that life is, in part, about balancing these incongruent parts within us and finding peace in the acceptance of the whole.  
-...  
+At my core, I am a [mishmash](https://dictionary.cambridge.org/us/dictionary/english/mishmash) of many different goals, skills, and interests (and you are, too). The ["woo-woo"](https://www.merriam-webster.com/dictionary/woo-woo) side of me believes that life is, in part, about balancing these incongruent parts within us and finding peace in the acceptance of the whole...  
 But the business and practical side of me knows that to get things *done*, focuses have to be set and compromises have to be made. Therefore, when it comes to being the "CuKey Guy", I choose to focus on the following ideals: 
 - Efficiency
 - Value
