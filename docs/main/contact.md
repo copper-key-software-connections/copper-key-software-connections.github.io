@@ -1,29 +1,6 @@
 # Contact Info
 
-<style>
-  #myButton {
-    padding: 8px 16px;
-    background-color: #f0b99b;
-    border: none;
-    color: brown;
-    border-radius: 6px;
-    cursor: pointer;
-    margin: 5px;
-    width: 300px;
-    transition-duration: 0.4s;
-  }
-  
-  #myButton:hover {
-    background-color: #a8542d;
-    color: #brown;
-  }
-  
- .button-link, .button-link:link, .button-link:visited {
-  text-decoration: none;
-  color: #0f2139;
-  }
-
-</style>
+<link rel="stylesheet" href="styles/buttons.css">
 
 <div style="text-align:left">
 <button id="myButton">
