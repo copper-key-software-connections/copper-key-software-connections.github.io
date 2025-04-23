@@ -10,7 +10,7 @@
 </br>
 
 <button id="myButton">
-<a class="button-link" href="mailto:dalton@copperkeysoftware.com" target="_blank">📧 Email at dalton@copperkeysoftware.com</a>
+<a class="button-link" href="mailto:dalton@copperkeysoftware.com" target="_blank">📧 Email me at dalton@copperkeysoftware.com</a>
 </button>
 
 </br>
