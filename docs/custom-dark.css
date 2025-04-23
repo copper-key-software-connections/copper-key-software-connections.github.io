@@ -11,7 +11,9 @@
 :root {
   --theme-color: #a8542d;
   --theme-font-color: #f0b995;
+  --side-bar-background-color: #354e71;
 }
+
 body:not(.ready) {
   overflow: hidden;
 }
@@ -282,7 +284,7 @@ main.hidden {
 }
 .sidebar-toggle {
   background-color: transparent;
-  background-color: rgba(63, 63, 63, 0.8);
+  background-color: var(--side-bar-background-color, #ea6f5a);;
   border: 0;
   outline: none;
   padding: 10px;
@@ -595,7 +597,9 @@ section.cover blockquote > p > a:hover {
   color: #ea6f5a;
   color: var(--theme-color, #ea6f5a);
 }
-.sidebar,
+.sidebar {
+  background-color: var(--side-bar-background-color, #ea6f5a);;
+}
 body {
   background-color: #0f2139;
 }
