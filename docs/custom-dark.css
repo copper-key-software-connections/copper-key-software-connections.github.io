@@ -283,7 +283,6 @@ main.hidden {
   background: hsla(0, 0%, 53.3%, 0.1);
 }
 .sidebar-toggle {
-  background-color: transparent;
   background-color: var(--side-bar-background-color, #ea6f5a);;
   border: 0;
   outline: none;
@@ -301,7 +300,6 @@ main.hidden {
   opacity: 0.4;
 }
 .sidebar-toggle span {
-  background-color: #ea6f5a;
   background-color: var(--theme-color, #ea6f5a);
   display: block;
   margin-bottom: 4px;
@@ -577,7 +575,6 @@ section.cover .cover-main > p:last-child a {
   transition: all 0.15s ease;
 }
 section.cover .cover-main > p:last-child a:last-child {
-  background-color: #ea6f5a;
   background-color: var(--theme-color, #ea6f5a);
   color: #fff;
 }
@@ -624,7 +621,6 @@ body {
   padding: 0;
 }
 .sidebar ul li.active > a {
-  color: #ea6f5a;
   color: var(--theme-color, #ea6f5a);
   font-weight: 600;
 }
