@@ -18,7 +18,7 @@ If you'll let me, I can be your "key" to success!
 
 One quick tip for navigating this and other websites: Use `Alt + ⬅ (left arrow)` to go backwards to the previous page you were at (and `Alt + ➡ (right arrow)` to go forwards, but this is used less often).
 
-If you can't see the sidebar to the left (👈), click the menu/"burger" button at the bottom left of the screen.  
+If you can't see the sidebar to the left (👈), click the menu/"burger" button at the top left of the screen.  
 Then you can select what section to go to next.  
 Or click one of the links at the top of this page.
 
