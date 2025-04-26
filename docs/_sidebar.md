@@ -4,7 +4,7 @@
 <!-- * [projects](projects/README.md) -->
 * [Contact Me 📞📧📅 ](main/contact.md)
 
-* [Some General Info](main/README.md)
+* [General Info](main/README.md)
   * [Core Values](main/core_values.md)
   * [What is this?](main/what_is_this.md)
   * [FAQs](main/faqs.md)
