@@ -9,6 +9,6 @@
   * [What is this?](main/what_is_this.md)
   * [FAQs](main/faqs.md)
 
-* [Client Stories & Testimonials](client_stories_and_testimonials/README.md)
+<!-- * [Client Stories & Testimonials](client_stories_and_testimonials/README.md) -->
 
 * [Articles](articles/README.md)
