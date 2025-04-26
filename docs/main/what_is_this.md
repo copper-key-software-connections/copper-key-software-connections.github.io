@@ -16,4 +16,6 @@ I want to help people answer these questions and others so they can get the most
 
 <!-- For some examples of what I can help with, please look through my [client stories](client_stories) collection and see if there's anything relevant to you.  -->
 
-Finally, keep in mind that while I am trying to make a living from this business (and also donate to causes like [Starkville Strong](https://www.starkvillestrong.org)), I truly want to help as many people as I can as much as I can; this is why I have [volunteer hours](main/volunteering.md) (and am a really bad salesperson...).
+Finally, keep in mind that while I am trying to make a living from this business (and also donate to causes like [Starkville Strong](https://www.starkvillestrong.org)), I truly want to help as many people as I can as much as I can; this is why I have [volunteer hours](main/volunteering.md)[^1].
+
+[^1]: A this is partly why I am a really bad salesperson... but I'm working on it!
