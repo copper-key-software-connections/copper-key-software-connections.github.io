@@ -12,3 +12,6 @@
 <!-- * [Client Stories & Testimonials](client_stories_and_testimonials/README.md) -->
 
 * [Articles](articles/README.md)
+    * [How I can add value](articles/what_can_i_do_for_you.md)  
+    * [What is an online "account"?](articles/what_is_an_account.md)  
+    * [Common automation pitfalls](articles/common_automation_pitfalls.md)
