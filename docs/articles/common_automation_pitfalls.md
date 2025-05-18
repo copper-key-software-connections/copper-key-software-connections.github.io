@@ -1,7 +1,4 @@
----
-created: 2025-05-14T11:05
-updated: 2025-05-18T18:10
----
+
 # Common Automation Pitfalls
 
 Originally, this whole article was just going to be about my own discovery when attempting to do something I really should have thought about, asked about, and done better research into first. 
