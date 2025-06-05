@@ -636,6 +636,7 @@ body {
   color: #ea6f5a;
   color: var(--theme-color, #ea6f5a);
   font-weight: 600;
+  text-decoration: underline;
 }
 .markdown-section h1 {
   font-size: 2rem;
