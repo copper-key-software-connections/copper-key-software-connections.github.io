@@ -6,14 +6,14 @@
 <style type="text/css" rel="stylesheet">
 .down-arrow { 
     animation-name: fadeInOpacity;
-    animation-duration: 6s; 
+    animation-duration: 3s; 
 	opacity: 1;
     filter: invert(84%) sepia(51%) saturate(4251%) hue-rotate(321deg) brightness(89%) contrast(79%);
 }
     
 @keyframes fadeInOpacity {
 	0% {opacity: 0;}
-	67% {opacity: 0;}
+	50% {opacity: 0;}
 	100% {opacity: 1;}
 }
 
