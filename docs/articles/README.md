@@ -18,7 +18,7 @@ I ran into an interesting dilemma when helping someone learn how to operate thei
 Does it mean the same thing everywhere, or do I just have an idea of a definition in my head that I haven't confirmed?
 I try to understand this word better in this article.
 
-[A primer on keyboard shortcuts](articles/keyboard_shortcuts.md)
+[A primer on keyboard shortcuts](articles/keyboard_shortcuts.md)  
 Some may claim keyboard shortcuts are overhyped, but I think we don't encourage people to explore them enough. 
 From reducing the time of repetitive tasks to allowing some complex workflows be manageable, shortcuts can help cut down on how much you move your mouse around and give you more time to do your actual job: think. 
 

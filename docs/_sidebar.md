@@ -14,4 +14,5 @@
 * [Articles](articles/README.md)
     * [How I can add value](articles/what_can_i_do_for_you.md)  
     * [What is an online "account"?](articles/what_is_an_account.md)  
+    * [What are keyboard shortcuts?](articles/keyboard_shortcuts.md)  
     * [Common automation pitfalls](articles/common_automation_pitfalls.md)
