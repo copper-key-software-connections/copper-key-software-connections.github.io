@@ -629,12 +629,13 @@ body {
 .markdown-section h3,
 .markdown-section h4,
 .markdown-section strong {
-  color: #657b83;
+  /* color: #7f8c8d; */
+  color: #a8542d;
   font-weight: 600;
 }
 .markdown-section a {
-  color: #ea6f5a;
-  color: var(--theme-color, #ea6f5a);
+  color: #7f8c8d;
+  /* color: var(--theme-color, #ea6f5a); */
   font-weight: 600;
   text-decoration: underline;
 }
@@ -691,7 +692,8 @@ body {
   margin: 1em 0;
 }
 .markdown-section em {
-  color: #7f8c8d;
+  /* color: #7f8c8d; */
+  color: #a8542d;
 }
 .markdown-section code {
   background-color: #282828;
