@@ -2,7 +2,6 @@
 
 <!-- * [Blogs](blogs/README.md) -->
 <!-- * [projects](projects/README.md) -->
-* [Contact Me 📞📧📅 ](main/contact.md)
 
 * [General Info](main/README.md)
   * [Core Values](main/core_values.md)
@@ -16,3 +15,7 @@
     * [What is an online "account"?](articles/what_is_an_account.md)  
     * [What are keyboard shortcuts?](articles/keyboard_shortcuts.md)  
     * [Common automation pitfalls](articles/common_automation_pitfalls.md)
+
+* [Tech Tuesdays 🖥️ + 🍩](main/techtuesday.md)
+
+* [Contact Me 📞📧📅 ](main/contact.md)
