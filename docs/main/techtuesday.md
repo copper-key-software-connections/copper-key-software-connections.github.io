@@ -1,6 +1,7 @@
 # Tech Tuesday
 
 A "Tech Tuesday" event is when Copper Key comes by your business or organization, brings pastries (e.g. doughnuts), and offers help with technology for some amount of time (about an hour or so). 
+You can think of it like as a sort of "open house" for tech-related questions and issues.
 
 🖥️ + 🍩
 
