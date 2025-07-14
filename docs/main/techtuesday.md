@@ -6,7 +6,7 @@ You can think of it like as a sort of "open house" for tech-related questions an
 🖥️ + 🍩
 
 These events serve multiple purposes, but they are mainly
-1) **my chance** to find out what people in our community need and
+1) **my chance** to find out what tech issues/concepts people in our community need help with and
 2) **your chance** to address those annoying little tech issues you've been dealing with!
 
 If you're interested in tech advice/help/discussion and doughnuts (or just the doughnuts), then fill out the form below and I'll be in contact to schedule the event!
