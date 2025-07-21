@@ -1,4 +1,4 @@
-<!-- * [Copper Key Software Connections](/) -->
+* [Copper Key]()
 
 <!-- * [Blogs](blogs/README.md) -->
 <!-- * [projects](projects/README.md) -->
