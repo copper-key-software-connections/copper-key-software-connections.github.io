@@ -23,7 +23,7 @@
 	- Also mentions "Media Mail" to ship singular books
 - EBay charges 13.25% + $0.30 on each order
 
-Ironically but predictably, tere are apparently [several books](https://www.amazon.com/Beginners-Guide-Selling-Ebay-2022/dp/1956047158) on this topic.
+Ironically but predictably, there are apparently [several books](https://www.amazon.com/Beginners-Guide-Selling-Ebay-2022/dp/1956047158) on this topic.
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLjrFePPU8MFeCS2xs0HOgZXgFfILeurhh) about selling Books on EBay
 - several hours of video, but you could probably filter through and only look at the ones that are relevant to you!
