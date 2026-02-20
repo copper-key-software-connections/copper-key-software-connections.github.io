@@ -16,6 +16,6 @@
     * [What are keyboard shortcuts?](articles/keyboard_shortcuts.md)  
     * [Common automation pitfalls](articles/common_automation_pitfalls.md)
 
-* [Tech Tuesdays 🖥️ + 🍩](main/techtuesday.md)
+<!-- * [Tech Tuesdays 🖥️ + 🍩](main/techtuesday.md) -->
 
 * [Contact Me 📞📧📅 ](main/contact.md)
