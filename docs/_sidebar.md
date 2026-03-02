@@ -15,6 +15,7 @@
     * [What is an online "account"?](articles/what_is_an_account.md)  
     * [What are keyboard shortcuts?](articles/keyboard_shortcuts.md)  
     * [Common automation pitfalls](articles/common_automation_pitfalls.md)
+    * <a href="research/ios_basics_presentation/ios_basics_presentation_and_resources.html" target="_blank">iOS Basics Presentation</a>
 
 <!-- * [Tech Tuesdays 🖥️ + 🍩](main/techtuesday.md) -->
 
