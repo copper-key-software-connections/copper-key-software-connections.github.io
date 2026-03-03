@@ -1,7 +1,7 @@
 
 ## Recent articles
 
-[iOS Basics Article](research/ios_basics_presentation_and_resources) (<a href="research/ios_basics_presentation/ios_basics_presentation_and_resources.html" target="_blank">Presentation Version</a>)
+[iOS Basics Article](research/ios_tips_and_resources) (<a href="research/ios_presentation/presentation.html" target="_blank">Presentation Version</a>)
 - Discusses some tips and tricks for iOS users; especially geared towards more modern iOS versions (18, 26)
 
 
