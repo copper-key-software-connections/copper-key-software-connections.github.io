@@ -1,6 +1,6 @@
 ---
 title: iOS Basics Presentation
-author: Dalton Winans-Pruitt
+# author: Dalton Winans-Pruitt
 format:
   revealjs:
     incremental: true
@@ -8,7 +8,19 @@ format:
 transition: slide
 ---
 
-### Lesson 1 - Turning it off/on and emergency calling
+:::{.r-stack}
+
+::: {style="text-align: center;"}
+Presented by:  
+Dalton Winans-Pruitt  
+Copper Key Software Connections
+
+![](../../images/logo_no-name_transparent-background.svg){width=30%}
+
+:::
+:::
+
+---
  - Do you know how to turn it on and off?
 	 - Press and hold the Side button and Volume Up button, then slide to power off.
 	 - Or press the side button five times in a row, and it will open the same slider screen.
