@@ -1,5 +1,6 @@
 ## iOS Basics
 
+<a href="research/ios_presentation/presentation.html" target="_blank">Presentation Version</a>
 
 ### Lesson 1 - Turning it off/on and emergency calling
 Do you know how to turn it on and off?  

@@ -22,6 +22,11 @@ Copper Key Software Connections
 
 ---
 
+#### Article/webpage version of this presentation
+[iOS Basics](https://www.copperkeysoftwareconnections.com/research/ios_tips_and_resources)
+
+---
+
 ### Lesson 1 - Off/on and emergency calling
  - Do you know how to turn it on and off?
 	 - Press and hold the Side button and Volume Up button, then slide to power off.
@@ -162,5 +167,12 @@ dalton@copperkeysoftware.com
 
 ## Any Questions?
 
-- We can go over whatever you want!
+We can go over whatever you want!
 
+
+#### Article/Webpage version of this presentation
+
+::: {style="text-align: center;"}
+![](qr-code_ios_article.svg){width=30%}
+
+:::
