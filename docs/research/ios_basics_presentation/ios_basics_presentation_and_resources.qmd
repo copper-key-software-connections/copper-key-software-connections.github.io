@@ -21,6 +21,8 @@ Copper Key Software Connections
 :::
 
 ---
+
+### Lesson 1 - Off/on and emergency calling
  - Do you know how to turn it on and off?
 	 - Press and hold the Side button and Volume Up button, then slide to power off.
 	 - Or press the side button five times in a row, and it will open the same slider screen.
