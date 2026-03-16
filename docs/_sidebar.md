@@ -6,6 +6,7 @@
 * [General Info](main/README.md)
   * [Core Values](main/core_values.md)
   * [What is this?](main/what_is_this.md)
+  * [Services](main/services.md)
   * [FAQs](main/faqs.md)
 
 <!-- * [Client Stories & Testimonials](client_stories_and_testimonials/README.md) -->
