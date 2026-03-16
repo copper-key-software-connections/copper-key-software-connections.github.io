@@ -13,7 +13,6 @@
 		style="width:auto; font-size:x-large"> 
 Book online 
 </button> 
-<script async src="https://online-booking.housecallpro.com/script.js?token=2ea1500f721d4fc392da5b636ab185e9&orgName=Copper-Key-Software-Connections"> </script> 
 <!--End of Housecallpro Online booking button-->
 <br>
 (through HouseCall Pro)
