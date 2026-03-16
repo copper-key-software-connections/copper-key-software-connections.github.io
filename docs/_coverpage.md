@@ -3,10 +3,30 @@
 
 </br>
 
+<link rel="stylesheet" href="styles/buttons.css">
+<!--Start of Housecallpro Online booking button--> 
+<button id="myButton" 
+		data-token="2ea1500f721d4fc392da5b636ab185e9" 
+		data-orgname="Copper-Key-Software-Connections" 
+		class="hcp-button"
+		onClick="HCPWidget.openModal()"
+		style="width:auto; font-size:x-large"> 
+Book online 
+</button> 
+<script async src="https://online-booking.housecallpro.com/script.js?token=2ea1500f721d4fc392da5b636ab185e9&orgName=Copper-Key-Software-Connections"> </script> 
+<!--End of Housecallpro Online booking button-->
+<br>
+(through HouseCall Pro)
+
+<br>
+<div class="down-arrow" style="animation-duration: 3s; filter: none">
+or continue reading below
+</div>
+
 <style type="text/css" rel="stylesheet">
 .down-arrow { 
-    animation-name: fadeInOpacity;
-    animation-duration: 3s; 
+	animation-name: fadeInOpacity;
+    animation-duration: 5s; 
 	opacity: 1;
     filter: invert(84%) sepia(51%) saturate(4251%) hue-rotate(321deg) brightness(89%) contrast(79%);
 }
