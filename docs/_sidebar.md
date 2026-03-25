@@ -21,3 +21,5 @@
 <!-- * [Tech Tuesdays 🖥️ + 🍩](main/techtuesday.md) -->
 
 * [Contact Me 📞📧📅 ](main/contact.md)
+
+* [Our Reviews ⭐️](main/reviews.md)
