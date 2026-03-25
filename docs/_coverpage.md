@@ -4,18 +4,11 @@
 </br>
 
 <link rel="stylesheet" href="styles/buttons.css">
-<!--Start of Housecallpro Online booking button--> 
 <button id="myButton" 
-		data-token="2ea1500f721d4fc392da5b636ab185e9" 
-		data-orgname="Copper-Key-Software-Connections" 
-		class="hcp-button"
-		onClick="HCPWidget.openModal()"
+		onclick="window.location.href='#/main/services';"
 		style="width:auto; font-size:x-large"> 
-Book online 
+See Our Services
 </button> 
-<!--End of Housecallpro Online booking button-->
-<br>
-(through HouseCall Pro)
 
 <br>
 <div class="down-arrow" style="animation-duration: 3s; filter: none">
