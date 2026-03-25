@@ -4,7 +4,7 @@ I am not very great at selling myself to people.
 
 So, it's probably better if my past (and current) clients tell you how much my help has impacted their work and lives.
 
-> Note: If you're reading this in mid 2026, two of the reviews I have are from the same person copied into both Google and Facebook. Since I'm showing all reviews it looks like I just duplicated it. But I promise it shows all reviews, good an bad! *(At least until someone writes a real stinker...)*
+> Note: If you're reading this in mid 2026, two of the reviews I have are from the same person that they copied into both Google and Facebook. (Thank you!) Since I'm showing all reviews from both, it looks like I just duplicated it myself, but I promise it's just showing all reviews from both sources! And it also shows both good and bad reviews! *(At least until someone writes a real stinker...)*
 
 <!--Start of Housecallpro Reviews Widget-->
 <iframe
