@@ -20,6 +20,8 @@
     * [What are keyboard shortcuts?](articles/keyboard_shortcuts.md)  
     * [Common automation pitfalls](articles/common_automation_pitfalls.md)
 
+* [Classes](main/classes.md)
+
 <!-- * [Tech Tuesdays 🖥️ + 🍩](main/techtuesday.md) -->
 
 * [Contact Us 📞📧📅 ](main/contact.md)
